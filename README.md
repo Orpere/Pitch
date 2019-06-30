@@ -10,19 +10,19 @@
 - As a Ruby in rails future developer I can see how painful is testing, debugging, staging, and deploying a website through the lack of server base tools, which can permit us to control the Rails and Ruby Versions or a simple CI/CD integration with git, or even testing SSL on VHOSTS.
 
 ## What's the **solution**?
--	web management interface on rails
+ -	web management interface on rails
 
-a.	user management and groups and roles
+ a.	user management and groups and roles
 
-b.	server configuration (VHOSTS and SSL)
+ b.	server configuration (VHOSTS and SSL)
 
-c.	puma or unicorn integration
+ c.	puma or unicorn integration
 
-d.	SSL configuration (self-generated keys or letsengrypt to prod servers)
+ d.	SSL configuration (self-generated keys or letsengrypt to prod servers)
 
-e.	CI/CD and git integration (I expect has a popup with Travis)
+ e.	CI/CD and git integration (I expect has a popup with Travis)
 
-f.	API Gateway for developer expose and testing consumers
+ f.	API Gateway for developer expose and testing consumers
 
 https://www.nginx.com/
 
